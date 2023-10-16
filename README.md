@@ -27,11 +27,11 @@ Customization: The project is highly customizable, allowing users to adjust para
 Open-Source: Pantilt_face_tracking_py is open-source, providing a foundation for developers to build upon and enhance. Contributions and improvements from the community are encouraged.
 
 Usage:
-
 Install the required libraries and dependencies as specified in the project documentation.
 Upload the Arduino code to your Arduino board.
 Connect the servo motors to the Arduino as per the project's wiring instructions.
 Run the Python script on your computer.
 The camera will start tracking faces within its field of view, adjusting its position as necessary.
+
 Contributions:
 Contributions to the project, whether in the form of bug fixes, new features, or documentation improvements, are welcome. Please follow the guidelines provided in the project repository for contributing.
